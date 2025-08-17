@@ -1,0 +1,10 @@
+{
+  "status": "healthy",
+  "timestamp": "2024-01-01T00:00:00Z",
+  "version": "1.0.0",
+  "services": {
+    "api": "operational",
+    "database": "operational",
+    "trading_engine": "operational"
+  }
+}
