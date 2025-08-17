@@ -1,10 +1,9 @@
 {
   "name": "crypto-trading-bot-live",
   "private": true,
-    "engines": {
+  "engines": {
     "node": "18.x"
-  }
-
+  },
   "version": "1.0.0",
   "type": "commonjs",
   "scripts": {
